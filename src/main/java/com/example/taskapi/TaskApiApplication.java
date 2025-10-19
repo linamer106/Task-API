@@ -1,4 +1,4 @@
-package main.java.com.example.taskapi;//why does com.example.taskapi not work?
+package com.example.taskapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

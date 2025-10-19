@@ -1,4 +1,5 @@
-package main.java.com.example.taskapi;
+package com.example.taskapi;
+
 public class Task {
     private Long id;
     private String description;

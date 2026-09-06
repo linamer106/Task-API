@@ -1,18 +1,14 @@
-# 📝 Task List API & Frontend
+# 📝 Task List API
 
-A simple full-stack project demonstrating how to build a Java REST API for managing a task list, and connect it to a React frontend for an interactive user interface. The frontend allows users to create, update, and delete tasks via API calls.
+A Java REST API for managing a task list. A React frontend is planned but has not yet been implemented.
 
 ## 🚀 Overview
 
-This project showcases the basics of API development and frontend integration using modern web technologies:
+This project showcases the basics of API development using modern web technologies:
 
 Backend: Java + Spring Boot REST API
 
-Frontend: React (or Angular alternative)
-
-Styling: CSS
-
-Together, they form a small but complete example of a CRUD (Create, Read, Update, Delete) web application.
+Frontend: React (planned)
 
 ## ⚙️ Features
 
@@ -20,5 +16,4 @@ Together, they form a small but complete example of a CRUD (Create, Read, Update
 ✅ View all tasks
 ✅ Update existing tasks
 ✅ Delete tasks
-✅ Fully connected frontend and backend
-✅ Styled using plain CSS for a clean look
+🚧 React frontend and backend integration (planned)

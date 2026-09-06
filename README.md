@@ -16,4 +16,11 @@ Frontend: React (planned)
 ✅ View all tasks
 ✅ Update existing tasks
 ✅ Delete tasks
-🚧 React frontend and backend integration (planned)
+
+## 🚧 Planned
+
+⬜ React frontend and backend integration
+⬜ Create tasks through the frontend
+⬜ Update tasks through the frontend
+⬜ Delete tasks through the frontend
+⬜ Style the frontend with plain CSS
